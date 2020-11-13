@@ -1,4 +1,4 @@
-# Building Nested Hashes Lab
+base_hash = {
 
 ## Learning Goals
 
