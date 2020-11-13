@@ -1,10 +1,10 @@
-base_hash = {:railroads => {}
-            }
+def base_hash
+end
   
   
-monopoly_with_second_tier
-monopoly_with_third_tier
-monopoly_with_fourth_tier
+#monopoly_with_second_tier
+#monopoly_with_third_tier
+#monopoly_with_fourth_tier
   
 
 
