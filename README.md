@@ -1,4 +1,13 @@
-# Building Nested Hashes Lab
+def base_hash
+return {:railroads => {}}
+end
+  
+  
+#monopoly_with_second_tier
+#monopoly_with_third_tier
+#monopoly_with_fourth_tier
+  
+
 
 ## Learning Goals
 
